@@ -1,0 +1,23 @@
+{
+  "name": "smart-home-skill-test",
+  "version": "1.0.0",
+  "description": "alexa smart home skill test",
+  "main": "index.js",
+  "dependencies": {
+    "alexa-sdk": "^1.0.25"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PatPetillo/alexa-smart-home-test.git"
+  },
+  "author": "Pat Petillo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PatPetillo/alexa-smart-home-test/issues"
+  },
+  "homepage": "https://github.com/PatPetillo/alexa-smart-home-test#readme"
+}
